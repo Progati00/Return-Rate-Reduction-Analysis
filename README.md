@@ -154,10 +154,3 @@ ORDER BY return_rate_pct DESC;
 * Logistic regression can successfully predict which orders are **most likely to be returned**.
 
 ---
-
-```
-
-✅ This has **everything included**: SQL, Python ML, Power BI visuals, Deliverables, Insights, Next Steps — all formatted in Markdown.  
-
-Do you want me to also **add placeholders for screenshots** (like `![Power BI Dashboard](images/dashboard.png)`) so your README looks more professional?
-```
